@@ -1,6 +1,6 @@
 <?php 
 // Nombre: Luis Vega Rodríguez
-// Versión: 1.0
+// Versión: 1.1
 // Autor: Luis Vega Rodríguez
 // Fecha: 2023-10-23
 
